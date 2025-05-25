@@ -6,7 +6,7 @@
 
 ### 🔧 Technical Skills
 
-- HTML5 | CSS3 | JavaScript (Vanilla)
+- HTML5 | CSS3 | JavaScript
 - MySQL | PHP
 - Git & GitHub
 - Responsive Design | SEO Basics
