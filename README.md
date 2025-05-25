@@ -1,24 +1,24 @@
 ## 👋 Hi there, I'm Mehdi!
 
-🎓 Industrial Engineering Student | 👨‍💻 Front-End Developer | 📍 Iran
+🎓 Industrial Engineering Student | 📊 Aspiring Data Scientist & Optimization Enthusiast 
 
 ---
 
 ### 🔧 Technical Skills
 
-- HTML5 | CSS3 | JavaScript
+- Python (for data analysis, optimization, and automation)
+- HTML5 | CSS3 | JavaScript 
 - MySQL | PHP
-- Git & GitHub
-- Responsive Design | SEO Basics
+- Problem Solving | Data Analysis | Operations Research (OR basics)
 
 ---
 
-### 🧠 Currently Learning
+### 🧠 Currently Exploring
 
-- Machine Learning
-- Data Structures & Algorithms
-- React.js
-- Next.js
+- Mathematical Optimization (Linear, Integer, Nonlinear Programming)
+- Python Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
+- Data Science & Machine Learning fundamentals
+- Algorithms & Data Structures (for coding interviews)
 
 ---
 
@@ -28,6 +28,12 @@
 
 ---
 
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?mohamadkhodadadi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mohamadkhodadadi&layout=compact&theme=radical)
+
+---
 
 ### 📫 Contact Me
 
@@ -35,4 +41,4 @@
 
 ---
 
-> Always open to collaboration and learning new things!
+> Passionate about turning data into decisions, and problems into models. Always open to research and collaboration!
